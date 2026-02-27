@@ -1,4 +1,4 @@
-👋 Hi, I'm Caroline Njeri – a passionate Front-End Developer with nearly 3 years of experience building responsive web and mobile applications.
+👋 Hi, I'm Caroline Njeri – a passionate Front-End Developer with 4 years of experience building responsive web and mobile applications.
 
 👀 What I Do
 I specialize in creating joyful user experiences through clean, efficient code. My focus is on front-end technologies that make applications intuitive, fast, and accessible across all devices.
