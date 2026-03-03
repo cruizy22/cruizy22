@@ -8,12 +8,11 @@ Markup & Styling: HTML5, CSS3, Bootstrap, Responsive Design
 
 JavaScript & Frameworks: JavaScript (ES6+), React, Angular, jQuery
 
-Server-Side & APIs: Node.js, Express.js, RESTful API Integration, AJAX
+Server-Side & APIs: Node.js, Express.js, RESTful API Integration, AJAX, Python, java Spring boot
 
 Version Control: Git, GitHub
 
-Currently Learning: Vanilla JavaScript (deep dive), Python, Django, Vue.js
-
+Currently Learning: Docker, .NET
 💞️ Collaboration
 I'm looking to collaborate on innovative, user-centered projects that solve real problems. Whether it's building sleek front-end interfaces or integrating with RESTful APIs, I'm eager to contribute and grow with a dynamic team.
 
