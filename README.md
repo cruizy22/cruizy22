@@ -19,7 +19,7 @@ I'm looking to collaborate on innovative, user-centered projects that solve real
 📫 Let's Connect!
 Email: carolinacruiz22@gmail.com
 
-Portfolio: [Coming Soon]
+Portfolio: https://carolinenjeriportfolio.netlify.app/ 
 
 Live Project: Check out my work at www.localdriveske.co.ke – a responsive car sales platform I built!
 <!---
